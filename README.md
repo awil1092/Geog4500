@@ -8,3 +8,4 @@
 - `lectures/` - In-class notebook examples
 - `homework/` - Completed homework assignments
 - `data/` - Datasets used in assignments
+- https://github.com/awil1092/Geog4500/blob/main/data/ga_tracts_access.geojson

@@ -1,0 +1,96 @@
+OBJECTID,Company,SIC_Descri,Address,City,Zip_Code,County,Latitude,Longitude,x,y
+1,Buford Highway Farmers Market,Grocery Stores,5600 Buford Hwy NE,Doraville,30340,DeKalb County,33.904669,-84.272089,-84.27208482,33.90466253
+2,City Farmers Market,Grocery Stores,5000 Buford Hwy,Chamblee,30341,DeKalb County,33.888064,-84.288379,-84.28837482,33.88805753
+3,City Farmers Market,Grocery Stores,3317 Buford Hwy NE,Atlanta,30329,DeKalb County,33.842826,-84.328683,-84.32867881,33.84281954
+4,Clarkston Thriftown,Grocery Stores,926 Montreal Rd,Clarkston,30021,DeKalb County,33.811881,-84.241748,-84.24174384,33.81187455
+5,Food Depot,Grocery Stores,5741 Rockbridge Rd,Stone Mountain,30087,DeKalb County,33.786389,-84.159532,-84.15952786,33.78638255
+6,Ingles,Grocery Stores,4815 Rockbridge Rd,Stone Mountain,30083,DeKalb County,33.786991,-84.196677,-84.19667285,33.78698455
+7,Kroger,Grocery Stores,4498 Chamblee Dunwoody Rd,Dunwoody,30338,DeKalb County,33.922549,-84.314269,-84.31586843,33.92264838
+8,Kroger,Grocery Stores,2205 Lavista Rd NE,Atlanta,30329,DeKalb County,33.817569,-84.314753,-84.31416055,33.81566094
+9,Kroger,Grocery Stores,3559 Chamblee Tucker Rd,Chamblee,30341,DeKalb County,33.88554,-84.249026,-84.24789229,33.88375106
+10,Kroger,Grocery Stores,1160 Moreland Ave SE,Atlanta,30316,DeKalb County,33.722918,-84.349412,-84.34769412,33.72238107
+11,Kroger,Grocery Stores,3959 Lavista Rd,Tucker,30084,DeKalb County,33.846383,-84.25358,-84.25576919,33.84339667
+12,Kroger,Grocery Stores,3855 Buford Hwy NE,Atlanta,30329,DeKalb County,33.856565,-84.313521,-84.31351083,33.85529275
+13,Kroger,Grocery Stores,2385 Wesley Chapel Rd,Decatur,30035,DeKalb County,33.718761,-84.215433,-84.2174105,33.7184708
+14,Kroger,Grocery Stores,1799 Briarcliff Rd NE,Atlanta,30306,DeKalb County,33.804841,-84.337386,-84.33628786,33.80413379
+15,Kroger,Grocery Stores,4357 Lawrenceville Hwy,Tucker,30084,DeKalb County,33.85663,-84.208495,-84.20686898,33.8551622
+16,Kroger,Grocery Stores,720 Commerce Dr,Decatur,30030,DeKalb County,33.777769,-84.293968,-84.29396382,33.77776256
+18,Kroger,Grocery Stores,1232 S Hairston Rd,Stone Mountain,30088,DeKalb County,33.760116,-84.196681,-84.1949193,33.75925636
+19,Kroger,Grocery Stores,3871 Peachtree Rd NE,Atlanta,30319,DeKalb County,33.857496,-84.344357,-84.34492751,33.85642846
+20,Kroger,Grocery Stores,4919 Flat Shoals Pkwy,Decatur,30034,DeKalb County,33.680413,-84.226627,-84.22851012,33.67916627
+21,Kroger,Grocery Stores,2875 N Decatur Rd,Decatur,30033,DeKalb County,33.793777,-84.275351,-84.27322002,33.79180599
+22,Kroger,Grocery Stores,3479 Memorial Dr,Decatur,30032,DeKalb County,33.753791,-84.269429,-84.26942483,33.75378456
+23,Aldi,Grocery Stores,6650 Covington Hwy,Lithonia,30058,DeKalb County,33.718393,-84.146549,-84.14673913,33.71830795
+24,Kroger,Grocery Stores,1225 Caroline St NE,Atlanta,30307,DeKalb County,33.758389,-84.345703,-84.34815011,33.75613537
+25,Little Giant Farmers Market,Grocery Stores,2440 Wesley Chapel Rd,Decatur,30035,DeKalb County,33.716538,-84.215371,-84.21335806,33.71681545
+26,Marcado Fresco,Grocery Stores,4166 Buford Hwy NE,Atlanta,30345,DeKalb County,33.863214,-84.306099,-84.30609482,33.86320754
+27,Publix,Grocery Stores,3649 Flakes Mill Rd,Decatur,30034,DeKalb County,33.679309,-84.230943,-84.23155996,33.67971855
+28,Publix,Grocery Stores,380 N Deshong Rd,Stone Mountain,30087,DeKalb County,33.785431,-84.102034,-84.10202988,33.78542455
+29,Publix,Grocery Stores,4422 Hugh Howell Rd,Tucker,30084,DeKalb County,33.850204,-84.206424,-84.19865294,33.85024064
+30,Publix,Grocery Stores,3435 Ashford Dunwoody Rd NE,Atlanta,30319,DeKalb County,33.890878,-84.325623,-84.32466666,33.89035493
+31,Publix,Grocery Stores,2162 Henderson Mill Rd NE,Atlanta,30345,DeKalb County,33.847322,-84.255771,-84.25711643,33.84739824
+33,Publix,Grocery Stores,2155 N Decatur Rd,Decatur,30033,DeKalb County,33.790331,-84.304309,-84.3044507,33.78965527
+34,Publix,Grocery Stores,3045 Panola Rd,Lithonia,30038,DeKalb County,33.698043,-84.173075,-84.17307086,33.69803657
+35,Publix,Grocery Stores,5550 Chamblee Dunwoody Rd,Dunwoody,30338,DeKalb County,33.951443,-84.336647,-84.33806218,33.95037771
+36,Publix,Grocery Stores,2235 Glenwood Ave SE,Atlanta,30316,DeKalb County,33.740123,-84.313364,-84.31296104,33.73876362
+37,Publix,Grocery Stores,2562 Shallowford Rd NE,Atlanta,30345,DeKalb County,33.862271,-84.287014,-84.28700982,33.86226454
+38,Publix,Grocery Stores,2969 N Druid Hills Rd NE,Atlanta,30329,DeKalb County,33.815151,-84.309989,-84.31157355,33.81354313
+39,Publix,Grocery Stores,104 Town Blvd NE,Atlanta,30319,DeKalb County,33.869369,-84.33418,-84.33421092,33.87012909
+40,Sprouts Farmers Market,Grocery Stores,2551 Blackmon Dr,Decatur,30033,DeKalb County,33.793858,-84.286972,-84.28729197,33.79383871
+41,The Fresh Market,Grocery Stores,5515 Chamblee Dunwoody Rd,Dunwoody,30338,DeKalb County,33.94863,-84.335675,-84.33468174,33.94840313
+42,Walmart Neighborhood Market,Grocery Stores,3201 Tucker Norcross Rd,Tucker,30084,DeKalb County,33.882831,-84.219792,-84.21865369,33.88367861
+44,Wayfield Foods,Grocery Stores,2636 Max Cleland Blvd,Lithonia,30058,DeKalb County,33.711593,-84.108766,-84.10876188,33.71158656
+45,Whole Foods Market,Grocery Stores,5001 Peachtree Blvd,Chamblee,30341,DeKalb County,33.889358,-84.309027,-84.31411476,33.88492793
+46,Whole Foods Market 365,Grocery Stores,1555 Church St,Decatur,30033,DeKalb County,33.792876,-84.284123,-84.28436961,33.79262976
+47,Costco,Grocery Stores,500 Brookhaven Ave,Atlanta,30319,DeKalb County,33.872398,-84.337009,-84.33673579,33.87236852
+48,Publix,Grocery Stores,500 Ashwood Pkwy,Dunwoody,30338,DeKalb County,33.932832,-84.339291,-84.33934048,33.93289552
+49,Target,Grocery Stores,100 Perimeter Center Pl,Atlanta,30346,DeKalb County,33.930891,-84.341626,-84.34132765,33.93075508
+50,Walmart Neighborhood Market,Grocery Stores,5025 Winters Chapel Rd,Dunwoody,30360,DeKalb County,33.942106,-84.2695,-84.26964504,33.94191028
+51,La Confianza #2,Grocery Stores,4939 Winters Chapel Rd,Doraville,30360,DeKalb County,33.940921,-84.269346,-84.26935687,33.94058112
+55,H Mart,Grocery Stores,6035 Peachtree Rd Bldg B,Doraville,30360,DeKalb County,33.907782,-84.288051,-84.28808535,33.90753929
+56,Publix,Grocery Stores,5534 Peachtree Blvd,Chamblee,30341,DeKalb County,33.900419,-84.302319,-84.30230268,33.90044451
+63,Walmart Supercenter,Grocery Stores,1871 Chamblee Tucker Rd,Chamblee,30341,DeKalb County,33.888788,-84.311304,-84.31137568,33.88866432
+64,Dinho Market,Grocery Stores,5379 New Peachtree Rd,Chamblee,30341,DeKalb County,33.89015,-84.299896,-84.29987824,33.89006989
+65,Mi Tierra Supermercados,Grocery Stores,4317 Buford Hwy NE,Chamblee,30341,DeKalb County,33.867655,-84.300558,-84.30053379,33.86759802
+66,Sonora Supermercado,Grocery Stores,2190 Plaster Rd NE,Atlanta,30345,DeKalb County,33.865308,-84.299349,-84.29938991,33.86519429
+68,Mi Pueblo,Grocery Stores,4005 Buford Hwy NE Ste F,Atlanta,30345,DeKalb County,33.85993,-84.308607,-84.3089985,33.85971971
+69,Aldi,Grocery Stores,3963 Buford Hwy NE,Atlanta,30345,DeKalb County,33.858189,-84.310681,-84.31035996,33.85806288
+70,Latina Super Market,Grocery Stores,3795 Buford Hwy NE,Atlanta,30329,DeKalb County,33.854597,-84.31506,-84.31510002,33.85450543
+71,Brito Supermarket #2,Grocery Stores,3020 Buford Hwy NE,Atlanta,30329,DeKalb County,33.836814,-84.337041,-84.33711401,33.83677657
+72,Lidl,Grocery Stores,2480 Briarcliff Rd NE,Atlanta,30329,DeKalb County,33.828052,-84.33312,-84.33331205,33.82791557
+73,Target,Grocery Stores,2400 N Druid Hills Rd,Atlanta,30329,DeKalb County,33.828381,-84.325242,-84.32500875,33.82858476
+74,Oak Grove Market,Grocery Stores,2757 Lavista Rd,Decatur,30033,DeKalb County,33.823931,-84.293431,-84.29344816,33.82385128
+75,Aldi,Grocery Stores,4135 Lavista Rd Suite C200,Tucker,30084,DeKalb County,33.845798,-84.248956,-84.24857454,33.84550292
+76,Target,Grocery Stores,4241 Lavista Rd,Tucker,30084,DeKalb County,33.845114,-84.246015,-84.24557467,33.84482912
+79,Walmart Supercenter,Grocery Stores,4375 Lawrenceville Hwy,Tucker,30084,DeKalb County,33.855669,-84.205327,-84.20463499,33.85580019
+81,Sam's Club,Grocery Stores,1940 Mountain Industrial Blvd,Tucker,30084,DeKalb County,33.839971,-84.20206,-84.20229261,33.84036489
+83,Talar's Market,Grocery Stores,2495 Lawrenceville Hwy,Decatur,30033,DeKalb County,33.819519,-84.264612,-84.26465618,33.81950834
+84,Ariana Halal Store,Grocery Stores,2179 Lawrenceville Hwy Unit m,Decatur,30033,DeKalb County,33.810555,-84.270074,-84.27009366,33.81044113
+91,Publix,Grocery Stores,3870 N Druid Hills Rd,Decatur,30033,DeKalb County,33.811478,-84.274742,-84.27470229,33.81145154
+92,Kroger,Grocery Stores,2205 Lavista Rd NE,Atlanta,30329,DeKalb County,33.815623,-84.313752,-84.30526106,33.7909084
+93,Walmart Supercenter,Grocery Stores,2525 N Decatur Rd,Decatur,30033,DeKalb County,33.792483,-84.288678,-84.28902407,33.79258298
+94,Aldi,Grocery Stores,676 Decatur Village Wy,Decatur,30033,DeKalb County,33.796145,-84.285261,-84.28531684,33.79587117
+96,Publix,Grocery Stores,2720 E Ponce de Leon Ave,Decatur,30030,DeKalb County,33.77759,-84.278564,-84.27852705,33.77779465
+99,HM Asian Market,Grocery Stores,4614 Memorial Dr,Decatur,30032,DeKalb County,33.780799,-84.239373,-84.23950986,33.78101893
+103,Fresh Food Town,Grocery Stores,4604 E Ponce de Leon Ave,Clarkston,30021,DeKalb County,33.819816,-84.228471,-84.22853844,33.81991105
+106,Walmart Supercenter,Grocery Stores,5935 Memorial Dr,Stone Mountain,30083,DeKalb County,33.799219,-84.195099,-84.19538762,33.79912026
+109,Food Depot,Grocery Stores,4100 Redan Rd,Stone Mountain,30083,DeKalb County,33.764704,-84.22228,-84.22247084,33.76513201
+111,Candler Park Market,Grocery Stores,1642 McLendon Ave NE,Atlanta,30307,DeKalb County,33.764962,-84.333576,-84.33366322,33.76502949
+112,Target,Grocery Stores,1275 Caroline St NE,Atlanta,30307,DeKalb County,33.75702,-84.346301,-84.34605982,33.75650948
+113,Sevananda Natural Foods Market,Grocery Stores,467 Moreland Ave NE,Atlanta,30307,DeKalb County,33.76708,-84.348491,-84.34846726,33.76706238
+115,Lidl,Grocery Stores,1855 Memorial Dr SE,Atlanta,30317,DeKalb County,33.747069,-84.326888,-84.32744833,33.74677233
+120,Walmart Supercenter,Grocery Stores,2427 Gresham Rd S E,Atlanta,30316,DeKalb County,33.719249,-84.313038,-84.31305006,33.71875496
+129,WayField Foods,Grocery Stores,1757 Columbia Dr,Decatur,30032,DeKalb County,33.739329,-84.253423,-84.25361877,33.73938038
+132,Walmart Supercenter,Grocery Stores,8424 Mall Pkwy,Stonecrest,30038,DeKalb County,33.694904,-84.084979,-84.08475751,33.69456725
+134,Lithonia Farmer's Market,Grocery Stores,6980 Main St,Lithonia,30058,DeKalb County,33.712035,-84.10621,-84.10602168,33.71214062
+135,Kroger,Grocery Stores,6678 Covington Hwy,Lithonia,30058,DeKalb County,33.717706,-84.146733,-84.14463387,33.71879372
+136,Walmart Supercenter,Grocery Stores,5401 Fairington Rd,Stonecrest,30038,DeKalb County,33.700659,-84.166902,-84.16692922,33.70022999
+137,Food Depot,Grocery Stores,3590 Panola Rd,Stonecrest,30038,DeKalb County,33.68005,-84.17631,-84.17647458,33.67990115
+138,Carribbean Farmers Market,Grocery Stores,5410 Covington Hwy,Decatur,30035,DeKalb County,33.732064,-84.192376,-84.1924278,33.73205594
+143,Big Bear Supermarket,Grocery Stores,2849 Candler Rd,Decatur,30034,DeKalb County,33.706129,-84.273653,-84.27329046,33.7061178
+144,Lidl,Grocery Stores,6038 Covington Hwy,Decatur,30035,DeKalb County,33.724683,-84.1704836,-84.1707765,33.72428894
+146,Aldi,Grocery Stores,4900 Flat Shoals Pkwy,Decatur,30034,DeKalb County,33.681772,-84.227752,-84.22805346,33.68148275
+147,Brito Supermarket,Grocery Stores,3322 Chamblee Tucker Rd,Atlanta,30341,DeKalb County,33.88527,-84.2568,-84.25677678,33.88516195
+148,Supermercado Chicago,Grocery Stores,5263 Buford Hwy NE,Doraville,30340,DeKalb County,33.895695,-84.281575,-84.28140846,33.89570848
+149,Patel Brothers,Grocery Stores,1709 Church St F,Decatur,30033,DeKalb County,33.797538,-84.280972,-84.28076358,33.79766095
+150,Your DeKalb Farmers Market,Grocery Stores,3000 E Ponce de Leon Ave,Decatur,30030,DeKalb County,33.787043,-84.269821,-84.26959401,33.78690489
